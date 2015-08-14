@@ -18,7 +18,7 @@
     "component-indexof": "0.0.3",
     "component-type": "^1.1.0",
     "extend": "^2.0.1",
-    "get-attribute": "git://github.com/slifszyc/get-attribute",
+    "get-attribute": "git://github.com/slifszyc/get-attribute#f7cf0aee3eb4f735d023ddf069d0b7eb1b3b5101",
     "get-by-class": "git://github.com/slifszyc/get-by-class",
     "javve-events": "git://github.com/slifszyc/javve-events",
     "natural-sort": "git://github.com/slifszyc/natural-sort",
